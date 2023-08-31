@@ -1,6 +1,6 @@
-# Py Audio Sourcer
+# Py Audio Capture
 
-Py Audio Sourcer is a Python utility script designed for easy audio recording from selected input devices. It prioritizes the Windows Sound Mixer, but if unavailable, focuses on utilizing the VB-Audio Virtual Cable.
+Py Audio Capture is a Python utility script designed for easy audio recording from selected input devices. It prioritizes the Windows Sound Mixer, but if unavailable, focuses on utilizing the VB-Audio Virtual Cable.
 
 ## Table of Contents
 
