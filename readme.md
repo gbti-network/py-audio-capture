@@ -11,7 +11,7 @@ Py Audio Capture is a Python utility script designed for easy audio recording fr
 - [About VB-Cable](#about-vb-cable)
     - [Installing VB-Cable on Windows](#installing-vb-cable-on-windows)
 - [Setting Up Audio Output on Windows](#setting-up-audio-output-on-windows)
-- [Using Py Audio Sourcer](#using-py-audio-sourcer)
+- [Using Py Audio Capture](#using-py-audio-capture)
 
 ## About Python
 
@@ -30,7 +30,7 @@ Python is a widely-used programming language known for its clear syntax and read
 
 ## Installing Python Dependencies
 
-After installing Python, you will also need to install some additional Python packages which are dependencies for the Py Audio Sourcer script. These packages can be installed using `pip`, the Python package installer.
+After installing Python, you will also need to install some additional Python packages which are dependencies for the Py Audio Capture script. These packages can be installed using `pip`, the Python package installer.
 
 1. Open a command prompt or terminal window.
 2. Navigate to the directory containing `sourcer.py`.
